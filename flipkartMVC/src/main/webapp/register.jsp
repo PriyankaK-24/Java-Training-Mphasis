@@ -10,7 +10,7 @@
 	<h1 align="center">Sign up</h1>
 	<center>
 	
-	<form action = "Register">
+	<form action = "Register" method ="post">
 		Enter FullName : <input type = "text" name = "fname"><br><br>
 		
 		Enter UserName : <input type = "text" name = "user"><br><br>

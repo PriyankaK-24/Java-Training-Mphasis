@@ -9,7 +9,7 @@
 <body>
 	<h1 align = "center">Sign in</h1>
 	<center>
-	<form action = "Login">
+	<form action = "Login" method = "post">
 	
 	Enter UserName : <input type = "text" name = "user"><br><br>
 	Enter Password : <input type = "password" name = "pwd"><br><br>
